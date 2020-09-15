@@ -5,7 +5,10 @@ Code used for the segmentation survey done in CER3BRUM ([link](https://doi.org/1
 ## Description
 
 As we discussed in paper, we designed and implemented a PsychoPy (Peirce et al., 2019) test for neuroscientists to assess the segmentation quality of CEREBRUM-7T comparing our model with manual segmentation and with the GT. 
-in the figure below, we show the interface we presented the participants with. 
+In the figure below, we show the interface we presented the participants with. 
+
+<p align="center"><img src="https://github.com/rockNroll87q/segmentation_survey/blob/master/behavioural.png" alt="behavioural"</p>
+
 The source code to replicate the test is made available here.
 
 
