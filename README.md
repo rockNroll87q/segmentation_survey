@@ -12,9 +12,11 @@ In the figure below, we show the interface we presented the participants with.
 The source code to replicate the test is made available here.
 
 
-## Demo
+## Usage
 
-Please look at `demo.py` to see an example on how to use the code.
+Not particular requirement are needed, just [Psychopy](https://www.psychopy.org/). 
+Use the builder to run the code.
+
 
 ## Authors
 
@@ -22,8 +24,6 @@ Please look at `demo.py` to see an example on how to use the code.
 
 [Dennis Bontempi](https://github.com/denbonte)
 
-
-## Requirements
 
 
 ## Citation
