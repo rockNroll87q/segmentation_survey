@@ -1,6 +1,6 @@
 # Segmentation Survey
 
-Code used for the segmentation survey done in CER3BRUM ([link](https://doi.org/10.1016/j.media.2020.101688)) and CEREBRUM-7T ([link](https://www.biorxiv.org/content/10.1101/2020.07.07.191536v1.full)) papers.
+Code used for the segmentation survey done in CER3BRUM ([link](https://doi.org/10.1016/j.media.2020.101688)) and CEREBRUM-7T ([link](https://www.biorxiv.org/content/10.1101/2020.07.07.191536v2)) papers.
 
 ## Description
 
