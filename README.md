@@ -14,7 +14,7 @@ The source code to replicate the test is made available here.
 
 ## Usage
 
-Not particular requirement are needed, just [Psychopy](https://www.psychopy.org/). 
+Not particular requirements are needed, just [Psychopy](https://www.psychopy.org/). 
 Use the builder to run the code.
 
 
